@@ -17,7 +17,7 @@ Creamos un repositorio remoto con github y lo relacionamos.
 
 ![image](gitrepoRemote.JPG)
 Y enganchamos el siguiente codigo para subirlo al repositorio.
-![image](gitpushremote.JPG)
-Modificamos el nombre del fihcero para añadirlo como "README.md".  
+![image](gitpushremote.JPG)  
+Modificamos el nombre del fichero para añadirlo como "README.md".  
 A continuación la lista de todos los commits hasta el momento:  
 ![image](gitlog.JPG)
